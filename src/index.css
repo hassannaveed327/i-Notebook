@@ -1,0 +1,7 @@
+i {
+  cursor: pointer;
+}
+
+body.dark footer {
+  background: #343a40;
+}
